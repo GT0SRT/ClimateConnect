@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/GT0SRT/ClimateConnect/static/css/main.1ef4645f.css",
-    "main.js": "/GT0SRT/ClimateConnect/static/js/main.3cdb8b66.js",
-    "index.html": "/GT0SRT/ClimateConnect/index.html",
-    "main.1ef4645f.css.map": "/GT0SRT/ClimateConnect/static/css/main.1ef4645f.css.map",
-    "main.3cdb8b66.js.map": "/GT0SRT/ClimateConnect/static/js/main.3cdb8b66.js.map"
+    "main.css": "/ClimateConnect/static/css/main.1ef4645f.css",
+    "main.js": "/ClimateConnect/static/js/main.3cdb8b66.js",
+    "index.html": "/ClimateConnect/index.html",
+    "main.1ef4645f.css.map": "/ClimateConnect/static/css/main.1ef4645f.css.map",
+    "main.3cdb8b66.js.map": "/ClimateConnect/static/js/main.3cdb8b66.js.map"
   },
   "entrypoints": [
     "static/css/main.1ef4645f.css",
