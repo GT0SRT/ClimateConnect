@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ClimateConnect/static/css/main.1ef4645f.css",
-    "main.js": "/ClimateConnect/static/js/main.3cdb8b66.js",
+    "main.js": "/ClimateConnect/static/js/main.ef11674d.js",
     "index.html": "/ClimateConnect/index.html",
     "main.1ef4645f.css.map": "/ClimateConnect/static/css/main.1ef4645f.css.map",
-    "main.3cdb8b66.js.map": "/ClimateConnect/static/js/main.3cdb8b66.js.map"
+    "main.ef11674d.js.map": "/ClimateConnect/static/js/main.ef11674d.js.map"
   },
   "entrypoints": [
     "static/css/main.1ef4645f.css",
-    "static/js/main.3cdb8b66.js"
+    "static/js/main.ef11674d.js"
   ]
 }
