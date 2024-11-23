@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ClimateConnect/static/css/main.b31fb242.css",
-    "main.js": "/ClimateConnect/static/js/main.2a097e3b.js",
+    "main.css": "/ClimateConnect/static/css/main.409108f7.css",
+    "main.js": "/ClimateConnect/static/js/main.6d0bdf2d.js",
     "static/media/humidity.png": "/ClimateConnect/static/media/humidity.7ba69305537e57d7f290.png",
     "static/media/windspeed.png": "/ClimateConnect/static/media/windspeed.d3e8fc7630925282f585.png",
     "static/media/pressure.png": "/ClimateConnect/static/media/pressure.40d6d85f8d1e12a1458e.png",
     "static/media/aqi.png": "/ClimateConnect/static/media/aqi.08d53387c14f231c301d.png",
     "index.html": "/ClimateConnect/index.html",
-    "main.b31fb242.css.map": "/ClimateConnect/static/css/main.b31fb242.css.map",
-    "main.2a097e3b.js.map": "/ClimateConnect/static/js/main.2a097e3b.js.map"
+    "main.409108f7.css.map": "/ClimateConnect/static/css/main.409108f7.css.map",
+    "main.6d0bdf2d.js.map": "/ClimateConnect/static/js/main.6d0bdf2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b31fb242.css",
-    "static/js/main.2a097e3b.js"
+    "static/css/main.409108f7.css",
+    "static/js/main.6d0bdf2d.js"
   ]
 }
