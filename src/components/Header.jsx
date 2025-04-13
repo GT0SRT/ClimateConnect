@@ -38,7 +38,7 @@ const Header = () => {
 
   return (
     <>
-      <header className="p-[10px] pb-1 bg-[#ff7a32]">
+      <header className="p-[10px] pb-1 bg-[#ff7a32] z-50 relative">
         <div className="max-w-[1200px] mx-auto flex items-center justify-between">
           <div className="w-[100px] font-bold text-[white] text-[22px]">
             ClimateConnect
@@ -71,7 +71,7 @@ const Header = () => {
         <div
           className={`${
             isMenuOpen ? 'block' : 'hidden'
-          } lg:hidden p-4 mt-4`}
+          } fixed top-0 left-0 w-full h-full bg-black bg-opacity-40 backdrop-blur-sm z-40 p-4 mt-4`}
         >
           <nav className="list-none text-white text-[16px] font-semibold">
             {links.map((link, index) => (
