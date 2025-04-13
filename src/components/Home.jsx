@@ -77,7 +77,7 @@ const WeatherApp = ({ weatherData, loading, error, fetchWeather }) => {
           </button>
         </div>
         <div>
-          {loading && <p className='text-center ml-[40%]'>Loading...</p>}
+          {loading && <p className='flex justify-center items-center w-full h-screen text-center'>Loading...</p>}
           {error && <p>Error: {error}</p>}
           {weatherData && (
             <>
