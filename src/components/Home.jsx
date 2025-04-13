@@ -77,7 +77,7 @@ const WeatherApp = ({ weatherData, loading, error, fetchWeather }) => {
           </button>
         </div>
         <div>
-          {loading && <p className='text-center p-2'>Loading...</p>}
+          {loading && <p className='text-center ml-[40%]'>Loading...</p>}
           {error && <p>Error: {error}</p>}
           {weatherData && (
             <>
@@ -104,7 +104,7 @@ const WeatherApp = ({ weatherData, loading, error, fetchWeather }) => {
               </div>
             </div>
             </div>
-            <div className="md:flex md:flex-wrap">
+            <div className="md:flex md-flex-wrap">
               {
                 nextDays.map((day, index) => (
                     <Weekcards
